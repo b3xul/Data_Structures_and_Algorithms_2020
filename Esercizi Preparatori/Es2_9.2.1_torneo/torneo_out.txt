@@ -1,0 +1,6 @@
+name: P001 points: 10
+name: P002 points: 10
+name: P003 points: 10
+name: P004 points: 10
+name: P005 points: 10
+name: piero points: 10

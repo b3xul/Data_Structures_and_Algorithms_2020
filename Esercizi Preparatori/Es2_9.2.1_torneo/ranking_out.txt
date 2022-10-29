@@ -1,0 +1,2 @@
+name: mario points: 10
+name: giorgio points: 10

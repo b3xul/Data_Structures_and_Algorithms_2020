@@ -1,0 +1,5 @@
+Si: supponga 50 caratteri e che possa
+contenere spazi, mentre il ruolo sia un singolo carattere: ‘P’ per portiere, ‘D’ per
+difensore, ‘C’ per centrocampista ed ‘A’ per attaccante. Si supponga inoltre che il numero
+massimo di riserve sia pari a 7 e che ogni giocatore abbia compilato correttamente la
+rispettiva formazione (nessun doppione, da 11 a 18 giocatori in tutto, ecc).

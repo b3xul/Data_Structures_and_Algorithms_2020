@@ -1,0 +1,31 @@
+Generazione set di cardinalita' 0
+G \ {}
+aciclico = no
+Generazione set di cardinalita' 1
+G \ {(0, 1)}
+aciclico = si
+G \ {(1, 2)}
+aciclico = si
+G \ {(2, 3)}
+aciclico = si
+G \ {(3, 0)}
+aciclico = si
+DAG finale:
+G \ {(1, 2)}
+
+Start: 2
+	 -> 0 [9]
+	 -> 1 [43]
+	 -> 3 [5]
+Start: 3
+	 -> 0 [4]
+	 -> 1 [38]
+	 -> 2 [-1]
+Start: 0
+	 -> 1 [34]
+	 -> 2 [-1]
+	 -> 3 [-1]
+Start: 1
+	 -> 0 [-1]
+	 -> 2 [-1]
+	 -> 3 [-1]

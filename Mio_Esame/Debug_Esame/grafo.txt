@@ -1,0 +1,35 @@
+13
+A
+B
+C
+E
+D
+F
+G
+H
+I
+L
+M
+N
+O
+O N
+N L
+L I
+I M
+I B
+L B
+L A
+A B
+A C
+A D
+B C
+B D
+C D
+B E
+D G
+E F
+E G
+E H
+F G
+F H
+G H

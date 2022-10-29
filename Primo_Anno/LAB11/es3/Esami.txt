@@ -1,0 +1,10 @@
+Equitazione Donato Cavallo 1 5 50
+Canottaggio Remo Controcorrente 2 4 60
+Velocita' Tina Svelta 1 10 80
+Analisi Roberto Molinaro 3 30 5
+Informatica Alberto Rimedio 4 10 35.5
+Chimica Angelo Torrisi 4 7 20.2
+Labirinti Giovanni Storti 2 5 82
+Filologia Sara Reimondi 1 43 0.2
+Piante Alberto Rimedio 3 20 44.5
+Oliogarchia Olmo Torrisi 2 65 60

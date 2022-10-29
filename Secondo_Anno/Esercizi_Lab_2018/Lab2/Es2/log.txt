@@ -1,0 +1,8 @@
+7
+GTT001 Braccini Porta_Nuova 10/10/2018 18:50:00 19:07:25 1
+GTT001 Braccini Porta_Nuova 10/12/2018 19:50:00 20:06:00 1
+GTT002 Politecnico XVIII_Dicembre 10/10/2018 10:01:23 10:12:08 4
+GTT003 Einaudi Cso_Trapani 10/09/2018 14:11:23 14:38:23 2
+GTT004 Marmolada Sebastopoli 10/11/2018 00:01:02 00:12:00 3
+GTT002 Politecnico Piazza_Statuto 10/11/2018 23:11:59 23:20:07 0
+GTT004 Marmolada Sebastopoli 28/11/2018 00:01:12 00:12:00 3

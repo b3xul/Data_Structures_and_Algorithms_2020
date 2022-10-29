@@ -1,0 +1,7 @@
+Tratta [GTT001] da Braccini a Porta_Nuova del 10/10/2018 (dalle 18:50:00 alle 19:07:25, con ritardo di 1 minuto)
+Tratta [GTT001] da Braccini a Porta_Nuova del 10/12/2018 (dalle 19:50:00 alle 20:06:00, con ritardo di 1 minuto)
+Tratta [GTT002] da Politecnico a XVIII_Dicembre del 10/10/2018 (dalle 10:01:23 alle 10:12:08, con ritardo di 4 minuti)
+Tratta [GTT003] da Einaudi a Cso_Trapani del 10/09/2018 (dalle 14:11:23 alle 14:38:23, con ritardo di 2 minuti)
+Tratta [GTT004] da Marmolada a Sebastopoli del 10/11/2018 (dalle 00:01:02 alle 00:12:00, con ritardo di 3 minuti)
+Tratta [GTT002] da Politecnico a Piazza_Statuto del 10/11/2018 (dalle 23:11:59 alle 23:20:07, con ritardo di 0 minuti)
+Tratta [GTT004] da Marmolada a Sebastopoli del 28/11/2018 (dalle 00:01:12 alle 00:12:00, con ritardo di 3 minuti)

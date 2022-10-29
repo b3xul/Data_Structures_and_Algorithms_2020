@@ -1,0 +1,1 @@
+Exercises from Data Structures and Algorithms university course @ Politecnico di Torino. Oct 2017 - Feb 2018 | Oct 2019 - Feb 2020

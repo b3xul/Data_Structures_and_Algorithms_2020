@@ -1,0 +1,267 @@
+Generazione set di cardinalita' 0
+G \ {}
+aciclico = no
+Generazione set di cardinalita' 1
+G \ {(0, 1)}
+aciclico = no
+G \ {(0, 2)}
+aciclico = no
+G \ {(0, 3)}
+aciclico = no
+G \ {(0, 5)}
+aciclico = no
+G \ {(1, 4)}
+aciclico = no
+G \ {(1, 5)}
+aciclico = no
+G \ {(2, 3)}
+aciclico = no
+G \ {(2, 5)}
+aciclico = no
+G \ {(3, 4)}
+aciclico = no
+G \ {(4, 0)}
+aciclico = no
+G \ {(4, 5)}
+aciclico = no
+G \ {(4, 6)}
+aciclico = no
+G \ {(6, 3)}
+aciclico = no
+G \ {(6, 5)}
+aciclico = no
+Generazione set di cardinalita' 2
+G \ {(0, 1), (0, 2)}
+aciclico = no
+G \ {(0, 1), (0, 3)}
+aciclico = no
+G \ {(0, 1), (0, 5)}
+aciclico = no
+G \ {(0, 1), (1, 4)}
+aciclico = no
+G \ {(0, 1), (1, 5)}
+aciclico = no
+G \ {(0, 1), (2, 3)}
+aciclico = no
+G \ {(0, 1), (2, 5)}
+aciclico = no
+G \ {(0, 1), (3, 4)}
+aciclico = si
+G \ {(0, 1), (4, 0)}
+aciclico = no
+G \ {(0, 1), (4, 5)}
+aciclico = no
+G \ {(0, 1), (4, 6)}
+aciclico = no
+G \ {(0, 1), (6, 3)}
+aciclico = no
+G \ {(0, 1), (6, 5)}
+aciclico = no
+G \ {(0, 2), (0, 3)}
+aciclico = no
+G \ {(0, 2), (0, 5)}
+aciclico = no
+G \ {(0, 2), (1, 4)}
+aciclico = no
+G \ {(0, 2), (1, 5)}
+aciclico = no
+G \ {(0, 2), (2, 3)}
+aciclico = no
+G \ {(0, 2), (2, 5)}
+aciclico = no
+G \ {(0, 2), (3, 4)}
+aciclico = no
+G \ {(0, 2), (4, 0)}
+aciclico = no
+G \ {(0, 2), (4, 5)}
+aciclico = no
+G \ {(0, 2), (4, 6)}
+aciclico = no
+G \ {(0, 2), (6, 3)}
+aciclico = no
+G \ {(0, 2), (6, 5)}
+aciclico = no
+G \ {(0, 3), (0, 5)}
+aciclico = no
+G \ {(0, 3), (1, 4)}
+aciclico = no
+G \ {(0, 3), (1, 5)}
+aciclico = no
+G \ {(0, 3), (2, 3)}
+aciclico = no
+G \ {(0, 3), (2, 5)}
+aciclico = no
+G \ {(0, 3), (3, 4)}
+aciclico = no
+G \ {(0, 3), (4, 0)}
+aciclico = no
+G \ {(0, 3), (4, 5)}
+aciclico = no
+G \ {(0, 3), (4, 6)}
+aciclico = no
+G \ {(0, 3), (6, 3)}
+aciclico = no
+G \ {(0, 3), (6, 5)}
+aciclico = no
+G \ {(0, 5), (1, 4)}
+aciclico = no
+G \ {(0, 5), (1, 5)}
+aciclico = no
+G \ {(0, 5), (2, 3)}
+aciclico = no
+G \ {(0, 5), (2, 5)}
+aciclico = no
+G \ {(0, 5), (3, 4)}
+aciclico = no
+G \ {(0, 5), (4, 0)}
+aciclico = no
+G \ {(0, 5), (4, 5)}
+aciclico = no
+G \ {(0, 5), (4, 6)}
+aciclico = no
+G \ {(0, 5), (6, 3)}
+aciclico = no
+G \ {(0, 5), (6, 5)}
+aciclico = no
+G \ {(1, 4), (1, 5)}
+aciclico = no
+G \ {(1, 4), (2, 3)}
+aciclico = no
+G \ {(1, 4), (2, 5)}
+aciclico = no
+G \ {(1, 4), (3, 4)}
+aciclico = si
+G \ {(1, 4), (4, 0)}
+aciclico = no
+G \ {(1, 4), (4, 5)}
+aciclico = no
+G \ {(1, 4), (4, 6)}
+aciclico = no
+G \ {(1, 4), (6, 3)}
+aciclico = no
+G \ {(1, 4), (6, 5)}
+aciclico = no
+G \ {(1, 5), (2, 3)}
+aciclico = no
+G \ {(1, 5), (2, 5)}
+aciclico = no
+G \ {(1, 5), (3, 4)}
+aciclico = no
+G \ {(1, 5), (4, 0)}
+aciclico = no
+G \ {(1, 5), (4, 5)}
+aciclico = no
+G \ {(1, 5), (4, 6)}
+aciclico = no
+G \ {(1, 5), (6, 3)}
+aciclico = no
+G \ {(1, 5), (6, 5)}
+aciclico = no
+G \ {(2, 3), (2, 5)}
+aciclico = no
+G \ {(2, 3), (3, 4)}
+aciclico = no
+G \ {(2, 3), (4, 0)}
+aciclico = no
+G \ {(2, 3), (4, 5)}
+aciclico = no
+G \ {(2, 3), (4, 6)}
+aciclico = no
+G \ {(2, 3), (6, 3)}
+aciclico = no
+G \ {(2, 3), (6, 5)}
+aciclico = no
+G \ {(2, 5), (3, 4)}
+aciclico = no
+G \ {(2, 5), (4, 0)}
+aciclico = no
+G \ {(2, 5), (4, 5)}
+aciclico = no
+G \ {(2, 5), (4, 6)}
+aciclico = no
+G \ {(2, 5), (6, 3)}
+aciclico = no
+G \ {(2, 5), (6, 5)}
+aciclico = no
+G \ {(3, 4), (4, 0)}
+aciclico = si
+G \ {(3, 4), (4, 5)}
+aciclico = no
+G \ {(3, 4), (4, 6)}
+aciclico = no
+G \ {(3, 4), (6, 3)}
+aciclico = no
+G \ {(3, 4), (6, 5)}
+aciclico = no
+G \ {(4, 0), (4, 5)}
+aciclico = no
+G \ {(4, 0), (4, 6)}
+aciclico = si
+G \ {(4, 0), (6, 3)}
+aciclico = si
+G \ {(4, 0), (6, 5)}
+aciclico = no
+G \ {(4, 5), (4, 6)}
+aciclico = no
+G \ {(4, 5), (6, 3)}
+aciclico = no
+G \ {(4, 5), (6, 5)}
+aciclico = no
+G \ {(4, 6), (6, 3)}
+aciclico = no
+G \ {(4, 6), (6, 5)}
+aciclico = no
+G \ {(6, 3), (6, 5)}
+aciclico = no
+DAG finale:
+G \ {(4, 0), (6, 3)}
+
+Start: 0
+	 -> 1 [34]
+	 -> 2 [12]
+	 -> 3 [67]
+	 -> 4 [124]
+	 -> 5 [129]
+	 -> 6 [126]
+Start: 2
+	 -> 0 [-1]
+	 -> 1 [-1]
+	 -> 3 [5]
+	 -> 4 [17]
+	 -> 5 [90]
+	 -> 6 [19]
+Start: 3
+	 -> 0 [-1]
+	 -> 1 [-1]
+	 -> 2 [-1]
+	 -> 4 [12]
+	 -> 5 [17]
+	 -> 6 [14]
+Start: 1
+	 -> 0 [-1]
+	 -> 2 [-1]
+	 -> 3 [-1]
+	 -> 4 [90]
+	 -> 5 [95]
+	 -> 6 [92]
+Start: 4
+	 -> 0 [-1]
+	 -> 1 [-1]
+	 -> 2 [-1]
+	 -> 3 [-1]
+	 -> 5 [5]
+	 -> 6 [2]
+Start: 6
+	 -> 0 [-1]
+	 -> 1 [-1]
+	 -> 2 [-1]
+	 -> 3 [-1]
+	 -> 4 [-1]
+	 -> 5 [3]
+Start: 5
+	 -> 0 [-1]
+	 -> 1 [-1]
+	 -> 2 [-1]
+	 -> 3 [-1]
+	 -> 4 [-1]
+	 -> 6 [-1]

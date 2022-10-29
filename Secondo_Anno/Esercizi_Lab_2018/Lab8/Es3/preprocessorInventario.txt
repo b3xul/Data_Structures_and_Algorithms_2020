@@ -1,0 +1,89 @@
+# 1 "inventario.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "inventario.c"
+
+
+
+# 1 "inventario.h" 1
+
+
+
+
+typedef struct statistics{
+    int hp; int mp; int atk; int def; int mag; int spr;
+}stat_t;
+
+typedef struct object{
+    char* nome; char* tipo; stat_t modifiers;
+}obj_t;
+
+typedef struct inventory_wrapper{
+    obj_t* inventory;
+    int nInv;
+    int maxInv;
+}tabInv;
+
+void leggi_file_obj(tabInv* tab, FILE* fp);
+obj_t* ricerca_nome(char* str, tabInv tab);
+void stampa_inventory(tabInv t, FILE* fp);
+void stampa_object(obj_t* o, FILE* fp);
+void stampa_stats(stat_t* s, FILE* fp, int type);
+# 5 "inventario.c" 2
+
+void leggi_file_obj(tabInv* tab, FILE* fp){
+    obj_t d;
+    int i;
+    char buffer[51];
+
+    fscanf(fp,"%d",&tab->maxInv);
+
+    tab->inventory=(obj_t*)malloc(tab->maxInv*sizeof(obj_t));
+    if(tab->inventory==NULL){
+        fprintf(stderr,"Errore allocazione inventario\n");
+        return;
+    }
+
+    for(i=0;i<tab->maxInv;i++){
+        fscanf(fp,"%s",buffer);
+        d.nome=strdup(buffer);
+
+        fscanf(fp,"%s",buffer);
+        d.tipo=strdup(buffer);
+
+        fscanf(fp,"%d%d%d%d%d%d",&d.modifiers.hp,&d.modifiers.mp,&d.modifiers.atk,&d.modifiers.def,&d.modifiers.mag,&d.modifiers.spr);
+
+        tab->inventory[i]=d;
+        tab->nInv++;
+    }
+
+    return;
+}
+
+obj_t* ricerca_nome(char* str, tabInv tab){
+    int i;
+    for(i=0;i<tab.nInv;i++){
+        if(!strcmp(str,tab.inventory[i].nome))
+            return &tab.inventory[i];
+    }
+    return NULL;
+}
+
+void stampa_inventory(tabInv t, FILE* fp){
+    int i;
+    for(i=0;i<t.nInv;i++)
+        stampa_object(&t.inventory[i], fp);
+}
+
+void stampa_object(obj_t* o, FILE* fp){
+    fprintf(fp,"%s %s\n",o->nome,o->tipo);
+    stampa_stats(&(o->modifiers),fp,1);
+}
+
+void stampa_stats(stat_t* s, FILE* fp, int type){
+
+    if(type==0)
+        fprintf(fp,"HP:%d   MP:%d   ATK:%d   DEF:%d   MAG:%d   SPR:%d\n",s->hp,s->mp,s->atk,s->def,s->mag,s->spr);
+    else
+        fprintf(fp,"HP:%s%d   MP:%s%d   ATK:%s%d   DEF:%s%d   MAG:%s%d   SPR:%s%d\n",(s->hp>0)?"+":"",s->hp,(s->mp>0)?"+":"",s->mp,(s->atk>0)?"+":"",s->atk,(s->def>0)?"+":"",s->def,(s->mag>0)?"+":"",s->mag,(s->spr>0)?"+":"",s->spr);
+}

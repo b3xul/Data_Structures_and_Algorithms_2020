@@ -1,0 +1,16 @@
+acqua : 1.810000
+	arance : 0.760000
+		mele : 0.660000
+			sale : 0.190000
+		fusilli : 1.120000
+			mozzarella : 1.090000
+				zucchero : 0.990000
+					farina_00 : 0.790000
+			latte : 1.790000
+				pane_bianco : 1.190000
+					pane_integrale : 1.290000
+						passata_pomodoro : 1.590000
+	vino : 5.500000
+		cola : 1.990000
+			salmone_affumicato : 4.590000
+		grana_padano : 7.990000

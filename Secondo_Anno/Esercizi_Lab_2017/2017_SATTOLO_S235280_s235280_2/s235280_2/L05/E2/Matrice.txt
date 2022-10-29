@@ -1,0 +1,9 @@
+1 2 r 4.5 casa
+3 4 t 6.5 casale
+1 2 r 4.5 casa
+1 2 r 4.5 casa
+1 2 r 4.5 casa
+1 2 r 4.5 casa
+1 2 r 4.5 casa
+1 2 r 4.5 casa
+21 7 V -0.5 finto
