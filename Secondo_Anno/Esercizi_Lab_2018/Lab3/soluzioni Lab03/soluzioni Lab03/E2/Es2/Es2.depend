@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556021449 source:d:\users\utente\desktop\codeblocks_projects\secondo_anno\esercizi_lab\lab3\soluzioni lab03\soluzioni lab03\e2\es2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+
