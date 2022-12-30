@@ -64,3 +64,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+files_stats.txt
+**/soluzioni**
