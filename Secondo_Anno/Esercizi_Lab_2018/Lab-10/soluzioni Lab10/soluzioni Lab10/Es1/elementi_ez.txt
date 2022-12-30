@@ -1,8 +1,0 @@
-6
-ruota 0 1 0 0 0 0.0 1
-back_handspring 0 0 0 0 0 0.4 2
-front_tuck 1 1 1 0 0 1.75 3
-back_pike 2 0 0 0 0 2.0 4
-back_layout_double_twist 1 0 0 1 0 8.0 9
-back_layout_quad_twist 1 0 0 1 1 12.0 10
-arabian 2 0 1 0 0 2.5 4
